@@ -1,15 +1,10 @@
-# GoPro Action Camera Demo Website
+# Action Camera Website
 
-Live link: [GoPro Web App](https://gopro-action-camera.web.app/)
+Live Website: [GoPro Web App](https://gopro-action-camera.web.app/)
 
-GoPro provides world class aciton cameras which are very useful for vloggers or hobbyist.
-These cameras have 4k quality video recording ability with waterproof built in.
+## Notable things I did in this project:
 
-
-## These are the things that you can do with this app:
-
-- Explore GoPro Action Cameras
-- Buy New Cameras
-- Manage Your Orders
-- Admin can Manage All Products
-- Admin can See Users Orders
+- Created video background for the homepage hero section.
+- Implemented CRUD operation.
+- Implemented Access control to the Dashboard.
+- Used MongoDB Database.
